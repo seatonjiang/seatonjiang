@@ -1,10 +1,10 @@
 ### Hi! I'm **Seaton** 👋🏼
 
-I'm a **Full stack engineer** based in China 🇨🇳, working at Vtrois. I'm a coding passionate that is focused on **PHP** & **JavaScript**, specifically in **Laravel** & **Vue**. Interested in design, tech and **OpenSource** ❤️
+I'm a **Full stack engineer** based in China, working at Vtrois. I'm a coding passionate that is focused on **PHP** & **JavaScript**, specifically in **Laravel** & **Vue**. Interested in design, tech and **OpenSource** ❤️
 
-I'm not working full-time on open source right now, but I still spend a lot of time creating and maintaining open source project 👨‍💻
+I'm not working full-time on open source right now, but I still spend a lot of time creating and maintaining **open source project** 👨‍💻
 
-Any sponsorship from the community will greatly inspire me, thanks to everyone 🙏🏼
+Any **sponsorship** from the community will greatly inspire me, **thanks** to everyone 🙏🏼
 
 <p>
   <a href="https://twitter.com/seatonjiang" target="_blank">
