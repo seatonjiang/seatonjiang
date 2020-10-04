@@ -8,10 +8,10 @@ Any **Sponsorship** from the community will greatly inspire me, **Thanks** to ev
 
 <p>
   <a href="https://twitter.com/seatonjiang" target="_blank">
-    <img src="https://raw.githubusercontent.com/seatonjiang/seatonjiang/master/twitter.png" width="144" alt="Follow @seatonjiang on Twitter" title="Follow @seatonjiang on Twitter">
+    <img src="https://raw.githubusercontent.com/seatonjiang/seatonjiang/main/twitter.png" width="144" alt="Follow @seatonjiang on Twitter" title="Follow @seatonjiang on Twitter">
   </a>
 
   <a href="https://weibo.com/seatonjiang" target="_blank">
-    <img src="https://raw.githubusercontent.com/seatonjiang/seatonjiang/master/weibo.png" width="144" alt="Follow @seatonjiang on Weibo" title="Follow @seatonjiang on Weibo">
+    <img src="https://raw.githubusercontent.com/seatonjiang/seatonjiang/main/weibo.png" width="144" alt="Follow @seatonjiang on Weibo" title="Follow @seatonjiang on Weibo">
   </a>
 </p>
