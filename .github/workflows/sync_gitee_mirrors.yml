@@ -6,7 +6,7 @@ on:
     - '.github/workflows/**'
     branches: [ main ]
   schedule:
-    - cron:  '0 1 * * *'
+    - cron:  '0 */1 * * *'
 
 jobs:
   build:
