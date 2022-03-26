@@ -1,41 +1,39 @@
-<p align="center">
-  <img src=".github/hello-world.gif" />
-</p>
-
 <table align="right">
- <tr><td><a href="README.md"><img src=".github/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README.zh-CN.md"><img src=".github/cn-flag.png" height="13"> 简体中文</a></td></tr>
+ <tr><td><a href="README.md"><img src=".github/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
-很高兴在这里见到你，这里是我存储开源代码及创造有趣东西的地方🤣
+很高兴在这里见到你，这里是我存储开源代码及创造有趣东西的地方 🤣
 
-- 👨🏻‍💻 对硬件开发、软件设计和开源项目感兴趣
-- 🌱 热爱科学和创新
-- 💓 热衷于解决问题和自动化的日常工作
-- 💻 喜欢探索新的技术栈和一些很酷的东西
+- 👨🏻‍💻 我对硬件、软件设计有着浓厚的兴趣
+- 🌱 我热爱科学和创新
+- 💓 我热衷于解决问题和自动化日常的工作
+- 💻 我喜欢探索新的技术栈和一些我觉得很酷的东西
 
 ### 开源项目和 GPG 公钥
 
 <details open>
-  <summary><b>⚡ 统计数据</b></summary>
+  <summary><b>⚡ 数据统计</b></summary>
   <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true#gh-light-mode-only" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true&theme=radical#gh-dark-mode-only" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical#gh-dark-mode-only"/>
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>🚀 开源项目</b></summary>
   <br/>
   <table align="center">
     <thead align="center">
       <tr>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b>💻 项目名称</b></td>
+        <td><b>🌟 点赞数量</b></td>
+        <td><b>🍴 克隆数量</b></td>
+        <td><b>🐛 议题数量</b></td>
+        <td><b>🔔 拉取请求</b></td>
+        <td><b>👨‍💻 主要语言</b></td>
       </tr>
     </thead>
     <tbody>
@@ -56,14 +54,6 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/aegis?style=flat-square"/></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/seatonjiang/nebula"><b>⛴ nebula</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/nebula?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/nebula?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/nebula?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/nebula?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/nebula?style=flat-square"/></td> 
-      </tr>
-      <tr>
         <td><a href="https://github.com/seatonjiang/gazlowe"><b>⌨️ gazlowe</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/gazlowe?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/gazlowe?style=flat-square&labelColor=343b41"/></td>
@@ -78,14 +68,6 @@
         <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/gitmoji-vscode?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/gitmoji-vscode?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/gitmoji-vscode?style=flat-square"/></td> 
-      </tr>
-      <tr>
-        <td><a href="https://github.com/seatonjiang/openwrt-ubnt"><b>📡 openwrt-ubnt</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/openwrt-ubnt?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/openwrt-ubnt?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/openwrt-ubnt?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/openwrt-ubnt?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/openwrt-ubnt?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>

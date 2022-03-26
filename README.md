@@ -1,10 +1,6 @@
-<p align="center">
-  <img src=".github/hello-world.gif" />
-</p>
-
 <table align="right">
- <tr><td><a href="README.md"><img src=".github/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README.zh-CN.md"><img src=".github/cn-flag.png" height="13"> 简体中文</a></td></tr>
+ <tr><td><a href="README.md"><img src=".github/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
 It's great to see you here, this is where I open source and create things 🤣
@@ -19,12 +15,14 @@ It's great to see you here, this is where I open source and create things 🤣
 <details open>
   <summary><b>⚡ GitHub Stats</b></summary>
   <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true#gh-light-mode-only" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true&theme=radical#gh-dark-mode-only" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical#gh-dark-mode-only"/>
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>🚀 Open Source Projects</b></summary>
   <br/>
   <table align="center">
@@ -56,14 +54,6 @@ It's great to see you here, this is where I open source and create things 🤣
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/aegis?style=flat-square"/></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/seatonjiang/nebula"><b>⛴ nebula</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/nebula?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/nebula?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/nebula?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/nebula?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/nebula?style=flat-square"/></td> 
-      </tr>
-      <tr>
         <td><a href="https://github.com/seatonjiang/gazlowe"><b>⌨️ gazlowe</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/gazlowe?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/gazlowe?style=flat-square&labelColor=343b41"/></td>
@@ -78,14 +68,6 @@ It's great to see you here, this is where I open source and create things 🤣
         <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/gitmoji-vscode?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/gitmoji-vscode?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/gitmoji-vscode?style=flat-square"/></td> 
-      </tr>
-      <tr>
-        <td><a href="https://github.com/seatonjiang/openwrt-ubnt"><b>📡 openwrt-ubnt</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/openwrt-ubnt?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/openwrt-ubnt?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/openwrt-ubnt?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/openwrt-ubnt?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/openwrt-ubnt?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
