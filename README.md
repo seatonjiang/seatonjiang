@@ -30,7 +30,7 @@ It's great to see you here, this is where I open source and create things 🤣
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>🚀 Open Source Projects</b></summary>
   <br/>
   <table align="center">

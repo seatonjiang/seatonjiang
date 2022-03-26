@@ -30,7 +30,7 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>🚀 开源项目</b></summary>
   <br/>
   <table align="center">
