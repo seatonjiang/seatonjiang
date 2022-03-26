@@ -1,6 +1,6 @@
 <table align="right">
- <tr><td><a href="README.zh-CN.md"><img src=".github/cn-flag.png" height="13"> 简体中文</a></td></tr>
  <tr><td><a href="README.md"><img src=".github/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README.zh-CN.md"><img src=".github/cn-flag.png" height="13"> 简体中文</a></td></tr>
 </table>
 
 It's great to see you here, this is where I open source and create things 🤣
