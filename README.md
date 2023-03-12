@@ -47,35 +47,19 @@ It's great to see you here, this is where I open source and create things 🤣
     <tbody>
       <tr>
         <td><a href="https://github.com/seatonjiang/kratos"><b>📖 kratos</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/kratos?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/kratos?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/kratos?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/kratos?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/kratos?style=flat-square"/></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/seatonjiang/aegis"><b>🛠️ aegis</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/aegis?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/aegis?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/aegis?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/aegis?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/aegis?style=flat-square"/></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/seatonjiang/gazlowe"><b>⌨️ gazlowe</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/gazlowe?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/gazlowe?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/gazlowe?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/gazlowe?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/gazlowe?style=flat-square"/></td> 
+        <td><a href="https://github.com/seatonjiang/kratos"><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/kratos?style=flat-square&labelColor=343b41"/></a></td>
+        <td><a href="https://github.com/seatonjiang/kratos/forks"><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/kratos?style=flat-square&labelColor=343b41"/></a></td>
+        <td><a href="https://github.com/seatonjiang/kratos/issues"><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/kratos?style=flat-square"/></a></td>
+        <td><a href="https://github.com/seatonjiang/kratos/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/kratos?style=flat-square"/></a></td>
+        <td><a href="https://github.com/seatonjiang/kratos"><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/kratos?style=flat-square"/></a></td>
       </tr>
       <tr>
         <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><b>😜 gitmoji-vscode</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/gitmoji-vscode?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/gitmoji-vscode?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/gitmoji-vscode?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/gitmoji-vscode?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/gitmoji-vscode?style=flat-square"/></td> 
+        <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/gitmoji-vscode?style=flat-square&labelColor=343b41"/></a></td>
+        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/forks"><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/gitmoji-vscode?style=flat-square&labelColor=343b41"/></a></td>
+        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/issues"><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td>
+        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td>
+        <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td> 
       </tr>
     </tbody>
   </table>
