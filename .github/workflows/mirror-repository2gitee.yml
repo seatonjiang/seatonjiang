@@ -8,39 +8,39 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Mirror Seatonjiang Repository
-      uses: Yikun/hub-mirror-action@v1.2
-      with:
-        src: github/seatonjiang
-        dst: gitee/seatonjiang
-        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-        dst_token: ${{ secrets.GITEE_TOKEN }}
-        account_type: user
-        white_list: "aegis,kratos,gazlowe,gitmoji-vscode"
-        
-    - name: Mirror Vtrois Repository
-      uses: Yikun/hub-mirror-action@v1.2
-      with:
-        src: github/vtrois
-        dst: gitee/vtrois
-        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-        dst_token: ${{ secrets.GITEE_TOKEN }}
-        account_type: org
-        
-    - name: Mirror Longnald Repository
-      uses: Yikun/hub-mirror-action@v1.2
-      with:
-        src: github/longnald
-        dst: gitee/longnald
-        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-        dst_token: ${{ secrets.GITEE_TOKEN }}
-        account_type: org
-        
-    - name: Delete Workflow Runs
-      uses: Mattraks/delete-workflow-runs@v2
-      with:
-        token: ${{ github.token }}
-        retain_days: 0
-        keep_minimum_runs: 0
+      - name: Mirror Seatonjiang Repository
+        uses: Yikun/hub-mirror-action@v1.2
+        with:
+          src: github/seatonjiang
+          dst: gitee/seatonjiang
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          account_type: user
+          white_list: "kratos,gitmoji-vscode"
+
+      - name: Mirror Vtrois Repository
+        uses: Yikun/hub-mirror-action@v1.2
+        with:
+          src: github/vtrois
+          dst: gitee/vtrois
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          account_type: org
+
+      - name: Mirror Longnald Repository
+        uses: Yikun/hub-mirror-action@v1.2
+        with:
+          src: github/longnald
+          dst: gitee/longnald
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          account_type: org
+
+      - name: Delete Workflow Runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          retain_days: 0
+          keep_minimum_runs: 0
