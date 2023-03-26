@@ -3,14 +3,13 @@
  <tr><td><a href="README.zh-CN.md"><img src=".github/cn-flag.png" height="13"> 简体中文</a></td></tr>
 </table>
 
-It's great to see you here, this is where I open source and create things 🤣
+It's great to see you here, this is where I open source and create things 😁
 
 - 👨🏻‍💻 Interested in hardware, design and open source.
-- 🌱 Love for science and innovation.
-- 💓 Passionate with problem solving and daily routines automation.
-- 💻 Love exploring new tech stack and building cool stuffs.
+- 🛰️ Passionate with problem solving and daily routines automation.
+- 🦾 Love exploring new tech stack and building cool stuffs.
 
-### Projects and GPG public key
+### Stats and PGP public key
 
 <details open>
   <summary><b>⚡ GitHub Stats</b></summary>
@@ -30,41 +29,6 @@ It's great to see you here, this is where I open source and create things 🤣
   </p>
 </details>
 
-<details>
-  <summary><b>🚀 Open Source Projects</b></summary>
-  <br/>
-  <table align="center">
-    <thead align="center">
-      <tr>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/seatonjiang/kratos"><b>📖 kratos</b></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos"><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/kratos?style=flat-square&labelColor=343b41"/></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos/forks"><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/kratos?style=flat-square&labelColor=343b41"/></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos/issues"><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/kratos?style=flat-square"/></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/kratos?style=flat-square"/></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos"><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/kratos?style=flat-square"/></a></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><b>😜 gitmoji-vscode</b></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/gitmoji-vscode?style=flat-square&labelColor=343b41"/></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/forks"><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/gitmoji-vscode?style=flat-square&labelColor=343b41"/></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/issues"><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td> 
-      </tr>
-    </tbody>
-  </table>
-</details>
-  
 <details>
   <summary><b>🔑 PGP Public Key</b></summary>
   <br/>
@@ -141,6 +105,6 @@ NOgE5gz2DTe6K8HMW6wEqPzXV2npM8j5ssLxfYa05iw=
 
 <div align="center">
 
-### Learn to Code ❤️ Change the World
+### World Peace ❤️‍🔥 No Disease
 
 </div>

@@ -3,14 +3,13 @@
  <tr><td><a href="README.md"><img src=".github/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
-很高兴在这里见到你，这里是我存储开源代码及创造有趣东西的地方 🤣
+很高兴在见到你，这里是我存储开源代码的地方 😁
 
-- 👨🏻‍💻 我对硬件、软件设计有着浓厚的兴趣
-- 🌱 我热爱科学和创新
-- 💓 我热衷于解决问题和自动化日常的工作
-- 💻 我喜欢探索新的技术栈和一些我觉得很酷的东西
+- 👨🏻‍💻 对软件开发和硬件设计有浓厚兴趣
+- 🛰️ 热衷于用自动化的方案解决日常问题
+- 🦾 喜欢研究新的技术和一些我觉得很酷的东西
 
-### 开源项目和 GPG 公钥
+### 数据统计和 PGP 公钥
 
 <details open>
   <summary><b>⚡ 数据统计</b></summary>
@@ -30,41 +29,6 @@
   </p>
 </details>
 
-<details>
-  <summary><b>🚀 开源项目</b></summary>
-  <br/>
-  <table align="center">
-    <thead align="center">
-      <tr>
-        <td><b>💻 项目名称</b></td>
-        <td><b>🌟 点赞数量</b></td>
-        <td><b>🍴 克隆数量</b></td>
-        <td><b>🐛 议题数量</b></td>
-        <td><b>🔔 拉取请求</b></td>
-        <td><b>👨‍💻 主要语言</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/seatonjiang/kratos"><b>📖 kratos</b></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos"><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/kratos?style=flat-square&labelColor=343b41"/></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos/forks"><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/kratos?style=flat-square&labelColor=343b41"/></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos/issues"><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/kratos?style=flat-square"/></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/kratos?style=flat-square"/></a></td>
-        <td><a href="https://github.com/seatonjiang/kratos"><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/kratos?style=flat-square"/></a></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><b>😜 gitmoji-vscode</b></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><img alt="Stars" src="https://img.shields.io/github/stars/seatonjiang/gitmoji-vscode?style=flat-square&labelColor=343b41"/></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/forks"><img alt="Forks" src="https://img.shields.io/github/forks/seatonjiang/gitmoji-vscode?style=flat-square&labelColor=343b41"/></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/issues"><img alt="Issues" src="https://img.shields.io/github/issues/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td>
-        <td><a href="https://github.com/seatonjiang/gitmoji-vscode"><img alt="Language" src="https://img.shields.io/github/languages/top/seatonjiang/gitmoji-vscode?style=flat-square"/></a></td> 
-      </tr>
-    </tbody>
-  </table>
-</details>
-  
 <details>
   <summary><b>🔑 PGP 公钥</b></summary>
   <br/>
@@ -141,6 +105,6 @@ NOgE5gz2DTe6K8HMW6wEqPzXV2npM8j5ssLxfYa05iw=
 
 <div align="center">
 
-### 学习编程 ❤️ 改变世界
+### 世界和平 ❤️‍🔥 没有疾病
 
 </div>
