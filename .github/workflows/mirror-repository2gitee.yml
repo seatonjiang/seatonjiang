@@ -18,7 +18,7 @@ jobs:
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
           account_type: user
-          white_list: "kratos,gitmoji-vscode"
+          white_list: "kratos,gitmoji-vscode,aegis"
 
       - name: Mirror Vtrois Repository
         uses: Yikun/hub-mirror-action@v1.2
