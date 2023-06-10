@@ -105,6 +105,6 @@ NOgE5gz2DTe6K8HMW6wEqPzXV2npM8j5ssLxfYa05iw=
 
 <div align="center">
 
-### World Peace ❤️‍🔥 No Disease
+### World Peace ❤️ No Disease
 
 </div>
