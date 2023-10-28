@@ -1,30 +1,25 @@
-<table align="right">
- <tr><td><a href="README.md"><img src=".github/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README.zh-CN.md"><img src=".github/cn-flag.png" height="13"> 简体中文</a></td></tr>
-</table>
-
-It's great to see you here, this is where I open source and create things 😁
+<b>It's great to see you here, this is where I open source and create things</b> 😁
 
 - 👨🏻‍💻 Interested in hardware, design and open source.
 - 🛰️ Passionate with problem solving and daily routines automation.
 - 🦾 Love exploring new tech stack and building cool stuffs.
 
-### Stats and PGP public key
+<b>Stats and PGP public key</b>
 
 <details open>
   <summary><b>⚡ GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/seatonjiang#gh-light-mode-only">
-      <img height="150px" src="https://github-readme-stats-seatonjiang.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true#gh-light-mode-only" />
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true#gh-light-mode-only" />
     </a>
     <a href="https://github.com/seatonjiang#gh-dark-mode-only">
-      <img height="150px" src="https://github-readme-stats-seatonjiang.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&theme=radical#gh-dark-mode-only" />
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=seatonjiang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&theme=radical#gh-dark-mode-only" />
     </a>
     <a href="https://github.com/seatonjiang#gh-light-mode-only">
-      <img height="150px" src="https://github-readme-stats-seatonjiang.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only"/>
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only"/>
     </a>
     <a href="https://github.com/seatonjiang#gh-dark-mode-only"> 
-      <img height="150px" src="https://github-readme-stats-seatonjiang.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical#gh-dark-mode-only"/>
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seatonjiang&hide_title=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical#gh-dark-mode-only"/>
     </a>
   </p>
 </details>
@@ -105,6 +100,6 @@ NOgE5gz2DTe6K8HMW6wEqPzXV2npM8j5ssLxfYa05iw=
 
 <div align="center">
 
-### World Peace ❤️ No Disease
+<b>World Peace ❤️ No Disease</b>
 
 </div>
