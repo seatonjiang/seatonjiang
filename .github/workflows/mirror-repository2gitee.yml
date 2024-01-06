@@ -18,25 +18,7 @@ jobs:
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
           account_type: user
-          white_list: "kratos,gitmoji-vscode"
-
-      - name: Mirror Vtrois Repository
-        uses: Yikun/hub-mirror-action@v1.3
-        with:
-          src: github/vtrois
-          dst: gitee/vtrois
-          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          dst_token: ${{ secrets.GITEE_TOKEN }}
-          account_type: org
-
-      - name: Mirror Longnald Repository
-        uses: Yikun/hub-mirror-action@v1.3
-        with:
-          src: github/longnald
-          dst: gitee/longnald
-          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          dst_token: ${{ secrets.GITEE_TOKEN }}
-          account_type: org
+          white_list: "kratos,gitmoji-vscode,monolith,narsil-rockylinux,narsil-ubuntu"
 
       - name: Delete Workflow Runs
         uses: Mattraks/delete-workflow-runs@v2
