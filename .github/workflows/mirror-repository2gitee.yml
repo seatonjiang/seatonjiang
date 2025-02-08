@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Mirror Seatonjiang Repository
-        uses: Yikun/hub-mirror-action@v1.4
+        uses: Yikun/hub-mirror-action@master
         with:
           src: github/seatonjiang
           dst: gitee/seatonjiang
