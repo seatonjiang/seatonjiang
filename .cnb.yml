@@ -1,9 +1,10 @@
 main:
   push:
-    - imports:
+    - name: 同步仓库到 GitHub
+      imports:
         - https://cnb.cool/seatonjiang/secret-key/-/blob/main/github.yaml
       stages:
-        - name: Synchronize the Repository to GitHub
+        - name: 同步仓库
           image: tencentcom/git-sync
           settings:
             target_url: https://github.com/seatonjiang/seatonjiang.git
