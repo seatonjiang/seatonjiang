@@ -1,0 +1,20 @@
+name: "定时创建快照"
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  create-snapshot:
+    name: "定时创建快照"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "定时创建快照"
+        uses: seatonjiang/lighthouse-snapshot-action@main
+        with:
+          secret_id: ${{ secrets.TENCENTCLOUD_SECRETID }}
+          secret_key: ${{ secrets.TENCENTCLOUD_SECRETKEY }}
+          region_instance: ${{ secrets.TENCENTCLOUD_REGIONINSTANCE }}
+          snapshot_mode: loop
