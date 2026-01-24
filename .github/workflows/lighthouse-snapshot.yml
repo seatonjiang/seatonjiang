@@ -18,3 +18,12 @@ jobs:
           secret_key: ${{ secrets.TENCENTCLOUD_SECRETKEY }}
           region_instance: ${{ secrets.TENCENTCLOUD_REGIONINSTANCE }}
           snapshot_mode: loop
+
+      - name: "删除历史运行记录"
+        uses: ophub/delete-releases-workflows@main
+        with:
+          delete_releases: false
+          releases_keep_latest: 1
+          delete_workflows: true
+          workflows_keep_day: 1
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
